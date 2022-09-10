@@ -1,2 +1,1 @@
-
-"# scutApply" 
+# scutApply"
